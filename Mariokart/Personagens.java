@@ -1,7 +1,7 @@
 package Mariokart;
 /*
     TAd Jogadores
-    @authors bernardo_cardoso e cauã_loiola
+    @authors bernardo_cardoso e caua_loiola
  */
 
 

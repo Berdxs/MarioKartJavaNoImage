@@ -1,7 +1,7 @@
 package Mariokart;
 /*
     exception proprio
-    @authors bernardo_cardoso e cauã_loiola
+    @authors bernardo_cardoso e caua_loiola
  */
 public class Personagemduplicado extends Exception {
     public Personagemduplicado() {
